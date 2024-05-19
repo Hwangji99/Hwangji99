@@ -1,3 +1,19 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:36349d,100:d16915&height=180&text=Hi%20👋,%20I'm%20This%20is%20Jihwan%20Hwang&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://www.instagram.com/jiihi9_9/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jiihi9_9/"> </a>
+         <a href=https://www.facebook.com/profile.php?id=100006667537099> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006667537099"> </a>
+         <a href=mailto:https://mail.google.com/mail/u/0/#inbox> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/#inbox"> </a>
+         <a href=https://www.notion.so/ca91a02f1918406d8d4c1350b998f82d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/ca91a02f1918406d8d4c1350b998f82d"> </a>
+          </div>  <br> 
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangji99%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    
+
+
 <img src="https://raw.githubusercontent.com/rzashakeri/Hwangji99/main/intro.gif" alt="👋 Hi there! I'm jihwan" title="👋 Hi there! I'm jihwan"/>
 <div align="justify">
     
