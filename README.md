@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm jihwan" title="👋 Hi there! I'm jihwan"/>
+<img src="https://raw.githubusercontent.com/Hwangji99/Hwangji99/main/intro.gif" alt="👋 Hi there! I'm jihwan" title="👋 Hi there! I'm jihwan"/>
 
 <img src="https://raw.githubusercontent.com/Hwangji99/Hwangji99/main/intro.gif" alt="👋 Hi there! I'm jihwan" title="👋 Hi there! I'm jihwan"/>
 <div align="justify">
