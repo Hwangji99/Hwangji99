@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **about various program language.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
