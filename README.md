@@ -1,7 +1,4 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:36349d,100:d16915&height=180&text=Hi%20👋,%20I'm%20This%20is%20Jihwan%20Hwang&animation=fadeIn&fontColor=ffffff&fontSize=40" />
-    </div>
-    <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/jiihi9_9/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jiihi9_9/"> </a>
          <a href=https://www.facebook.com/profile.php?id=100006667537099> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006667537099"> </a>
