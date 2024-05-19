@@ -1,13 +1,4 @@
 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/jiihi9_9/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jiihi9_9/"> </a>
-         <a href=https://www.facebook.com/profile.php?id=100006667537099> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006667537099"> </a>
-         <a href=https://www.notion.so/ca91a02f1918406d8d4c1350b998f82d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/ca91a02f1918406d8d4c1350b998f82d"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangji99%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
     
     
 
@@ -25,6 +16,15 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hwangji99&label=Profile%20views&color=0e75b6&style=flat" alt="hwangji99" /> </p>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://www.instagram.com/jiihi9_9/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/jiihi9_9/"> </a>
+         <a href=https://www.facebook.com/profile.php?id=100006667537099> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006667537099"> </a>
+         <a href=https://www.notion.so/ca91a02f1918406d8d4c1350b998f82d> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/ca91a02f1918406d8d4c1350b998f82d"> </a>
+          </div>  <br> 
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangji99%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
