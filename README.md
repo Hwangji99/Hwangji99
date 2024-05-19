@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm jihwan" title="👋 Hi there! I'm jihwan"/>
+<img src="https://raw.githubusercontent.com/Hwangji99/Hwangji99/main/intro.gif" alt="👋 Hi there! I'm jihwan" title="👋 Hi there! I'm jihwan"/>
 <div align="justify">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <h1 align="center">Hi 👋, I'm This is Jihwan Hwang, a developer who codes dreams.</h1>
