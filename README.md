@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hwangji99&label=Profile%20views&color=0e75b6&style=flat" alt="hwangji99" /> </p>
 
-- 🌱 I’m currently learning **about various program language.**
-
 <p align="left">
 </p>
 
