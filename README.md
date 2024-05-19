@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <h1 align="center">Hi 👋, I'm This is Jihwan Hwang, a developer who codes dreams.</h1>
 <h3 align="center">I'm workin with the misson of change the world a better than yesterday!</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hwangji99&label=Profile%20views&color=0e75b6&style=flat" alt="hwangji99" /> </p>
 
@@ -20,5 +22,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hwangji99&" alt="hwangji99" /></p>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
