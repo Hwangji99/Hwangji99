@@ -3,7 +3,7 @@
 <h3 align="center">I'm workin with the misson of change the world a better than yesterday!</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
-<p align="center"
+<p align="center">
 ![gifhubdesign](https://github.com/Hwangji99/Hwangji99/assets/158007430/6dd82ecb-e63a-4f55-99aa-a3e65e468b8d)
 </p>
 
