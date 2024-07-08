@@ -57,6 +57,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hwangji99&show_icons=true&locale=en" alt="hwangji99" /></p>
 
+#### 10 . [Spotify Github Profile](https://github.com/kittinan/spotify-github-profile)
+
+Show your Spotify playing on your Github profile
+<br/>
+
+📍 For example : &nbsp;
+
+<img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/novatorem.svg" style="max-width: 100%;">
+
+<br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hwangji99&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
