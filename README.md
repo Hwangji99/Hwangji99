@@ -57,13 +57,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hwangji99&show_icons=true&locale=en" alt="hwangji99" /></p>
 
-#### 10 . [Spotify Github Profile](https://github.com/kittinan/spotify-github-profile)
-
-Show your Spotify playing on your Github profile
-<br/>
-
-📍 For example : &nbsp;
-
 <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/novatorem.svg" style="max-width: 100%;">
 
 <br/>
