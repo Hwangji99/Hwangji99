@@ -57,7 +57,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hwangji99&show_icons=true&locale=en" alt="hwangji99" /></p>
 
-<img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/novatorem.svg" style="max-width: 100%;">
+
 
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
