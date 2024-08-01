@@ -25,33 +25,6 @@
 
 > Tools and technologies that I have worked with and am interested in
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
- </tr>
-</table>
-
-
 <p align='center'>
   <a href="https://github.com/hugoMGSung">
     <img src="https://github-readme-stats.vercel.app/api?username=Hwangji99&theme=tokyonight&show_icons=true"/>
@@ -59,7 +32,19 @@
   </a>
 </p>
 
-
+## Using Languages
+<p align='left'>
+    <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
+    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
+    <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
+    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
+    <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
+    <img height="40" src="https://img.icons8.com/?size=100&id=vgMoO3QkEnKf&format=png&color=000000" title="VisualBasic">
+    <img height="40" src="https://img.icons8.com/?size=100&id=7P0Pj0zSUQhq&format=png&color=000000" title="R">
+    <img height="40" src="https://img.icons8.com/?size=100&id=Lz7oiCpdanST&format=png&color=000000" title="Delphi">
+    <img height="40" src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" title="PHP">
+    <img height="40" src="https://img.icons8.com/?size=100&id=NFQusZJ4neki&format=png&color=000000" title="Databases">
+</p>
 
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
