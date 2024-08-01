@@ -53,9 +53,18 @@
 </table>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwangji99&show_icons=true&locale=en&layout=compact" alt="hwangji99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hwangji99&show_icons=true&locale=en" alt="hwangji99" /></p>
+<p align='left'>
+    <img height="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" title="C#">
+    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
+    <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
+    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
+    <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
+    <img height="40" src="https://img.icons8.com/?size=100&id=vgMoO3QkEnKf&format=png&color=000000" title="VisualBasic">
+    <img height="40" src="https://img.icons8.com/?size=100&id=7P0Pj0zSUQhq&format=png&color=000000" title="R">
+    <img height="40" src="https://img.icons8.com/?size=100&id=Lz7oiCpdanST&format=png&color=000000" title="Delphi">
+    <img height="40" src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" title="PHP">
+    <img height="40" src="https://img.icons8.com/?size=100&id=NFQusZJ4neki&format=png&color=000000" title="Databases">
+</p>
 
 
 
