@@ -34,9 +34,6 @@
 
 ## My favorite tools and technologies ⚙️
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -58,6 +55,13 @@
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
   </a>
+</p>
+
+## Using Technics
+<p align='left'>
+  <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
+  <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
+  <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
 </p>
 
 ## Using Tools
