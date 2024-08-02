@@ -22,17 +22,6 @@
        </div> 
     </div>
 
-
-## GitHub Stat and Languages
-> Tools and technologies that I have worked with and am interested in
-
-<p align='center'>
-  <a href="https://github.com/hugoMGSung">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hwangji99&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangji99&theme=tokyonight&layout=compact"/>
-  </a>
-</p>
-
 ## Using Languages
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -60,6 +49,14 @@
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
+</p>
+
+## GitHub Stat and Languages
+<p align='center'>
+  <a href="https://github.com/hugoMGSung">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hwangji99&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangji99&theme=tokyonight&layout=compact"/>
+  </a>
 </p>
 
 <br/>
