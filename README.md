@@ -5,7 +5,7 @@
 <!--h1 align="center">Hi 👋, I'm This is Jihwan Hwang, a developer who codes dreams.</h1-->
 <!--h3 align="center">I'm workin with the misson of change the world a better than yesterday!</h3-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+This+is+Jihwan+Hwang!;Welcome+to+my+treasure!;I'm+working+with+the+mission+of+change!;the+world+a+better+than+yesterday!&font=Edu%20NSW%20ACT%20Foundation&center=true&width=450&height=50&duration=4000&pause=1000&size=32" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Jihwan+Hwang!;Welcome+to+my+treasure!;I'm+working+with+the+mission+of+changing;the+world+a+better+than+yesterday!&font=Edu%20NSW%20ACT%20Foundation&center=true&width=450&height=50&duration=4000&pause=1000&size=32" alt="Example Usage - README Typing SVG">
 </p>
 
 <!--p align="center">
