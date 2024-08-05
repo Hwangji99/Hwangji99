@@ -43,14 +43,6 @@
   <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
 </p>
 
-## ⭐️ GitHub Stat and Languages 
-<p align='center'>
-  <a href="https://github.com/Hwangji99">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hwangji99&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangji99&theme=tokyonight&layout=compact"/>
-  </a>
-</p>
-
 ## 📑 Project List 
 - 개인 프로젝트
   - [부산광역시 119에 구조된 반려동물 찾기 서비스](https://github.com/Hwangji99/basic-wpf-2024)
@@ -59,6 +51,14 @@
 - 팀 프로젝트
   - [스마트 물류 시스템](https://github.com/2024-iot-team1/Team1-miniproject)
   - [진동 마사지 담요](https://github.com/Hwangji99/2023-Capstone)
+
+## ⭐️ GitHub Stat and Languages 
+<p align='center'>
+  <a href="https://github.com/Hwangji99">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hwangji99&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangji99&theme=tokyonight&layout=compact"/>
+  </a>
+</p>
 
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
