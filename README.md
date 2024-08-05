@@ -66,8 +66,8 @@
   - [스마트 물류 시스템](https://github.com/2024-iot-team1/Team1-miniproject)
   - [진동 마사지 담요](https://github.com/Hwangji99/2023-Capstone)
 
-<h3 align="center"> 📫 How to reach me: ...</h3>
-<p align="center">
+<h3> 📫 How to reach me: ...</h3>
+<p>
   <a href="https://Hwangji99.github.io/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
   <a href="mailto:ghkdwl1303@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
