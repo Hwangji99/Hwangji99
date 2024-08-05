@@ -22,7 +22,7 @@
        </div> 
     </div>
 
-## 💻 Using Languages 💻 📑
+## 💻 Using Languages 💻 
 <p align="left">
   <div>
   <img height="50" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
@@ -50,6 +50,15 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangji99&theme=tokyonight&layout=compact"/>
   </a>
 </p>
+
+## 📑 Project List 📑
+- 개인 프로젝트
+  - [부산광역시 119에 구조된 반려동물 찾기 서비스](https://github.com/Hwangji99/basic-wpf-2024)
+  - [POS기 재고 관리 시스템](https://github.com/Hwangji99/basic-csharp-2024)
+
+- 팀 프로젝트
+  - [스마트 물류 시스템](https://github.com/2024-iot-team1/Team1-miniproject)
+  - [진동 마사지 담요](https://github.com/Hwangji99/2023-Capstone)
 
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
