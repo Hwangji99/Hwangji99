@@ -68,7 +68,7 @@
 
 <h3> 📫 How to reach me: ...</h3>
 <p>
-  <a href="https://Hwangji99.github.io/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
+  <!--a href="https://Hwangji99.github.io/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen"-->&nbsp
   <a href="mailto:ghkdwl1303@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,10:1E90FF,30:4169E1,75:5F9EA0,100:4682B4&height=40&section=footer&text=&fontSize=0" width="100%"/>
