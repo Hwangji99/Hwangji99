@@ -22,7 +22,7 @@
        </div> 
     </div>
 
-## Using Languages⭐️📑🌳💻💬🤔👯🔭
+## 💻 Using Languages 💻 📑
 <p align="left">
   <div>
   <img height="50" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
@@ -43,9 +43,9 @@
   <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
 </p>
 
-## GitHub Stat and Languages
+## ⭐️ GitHub Stat and Languages ⭐️
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
+  <a href="https://github.com/Hwangji99">
     <img src="https://github-readme-stats.vercel.app/api?username=Hwangji99&theme=tokyonight&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangji99&theme=tokyonight&layout=compact"/>
   </a>
