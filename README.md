@@ -34,7 +34,7 @@
 </div>
 </p>
 
-## 🛠️ Using Tools 🛠️
+## 🛠️ Using Tools 
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
