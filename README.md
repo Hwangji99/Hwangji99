@@ -40,6 +40,8 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
   <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
   <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
+  <img height="40" src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML"/>
+  <img height="40" src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
   <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
 </p>
 
