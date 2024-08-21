@@ -49,6 +49,15 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=KyMSnxjEVwCr&format=png&color=000000" title="Notion">
 </p>
 
+## 📑 Project List 
+- 개인 프로젝트
+  - [부산광역시 119에 구조된 반려동물 찾기 서비스](https://github.com/Hwangji99/basic-wpf-2024)
+  - [POS기 재고 관리 시스템](https://github.com/Hwangji99/basic-csharp-2024)
+
+- 팀 프로젝트
+  - [스마트 물류 시스템](https://github.com/2024-iot-team1/Team1-miniproject)
+  - [진동 마사지 담요](https://github.com/Hwangji99/2023-Capstone)
+  - 
 ## ⭐️ GitHub Stat and Languages 
 <p align='center'>
   <a href="https://github.com/Hwangji99">
@@ -62,19 +71,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hwangji99&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-## 📑 Project List 
-- 개인 프로젝트
-  - [부산광역시 119에 구조된 반려동물 찾기 서비스](https://github.com/Hwangji99/basic-wpf-2024)
-  - [POS기 재고 관리 시스템](https://github.com/Hwangji99/basic-csharp-2024)
 
-- 팀 프로젝트
-  - [스마트 물류 시스템](https://github.com/2024-iot-team1/Team1-miniproject)
-  - [진동 마사지 담요](https://github.com/Hwangji99/2023-Capstone)
-
-<h3> 📫 How to reach me: ...</h3>
-<p>
-  <!--a href="https://Hwangji99.github.io/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen"-->&nbsp
-  <a href="mailto:ghkdwl1303@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
-</p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,10:1E90FF,30:4169E1,75:5F9EA0,100:4682B4&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
