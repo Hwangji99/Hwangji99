@@ -57,7 +57,7 @@
 - 팀 프로젝트
   - [스마트 물류 시스템](https://github.com/2024-iot-team1/Team1-miniproject)
   - [진동 마사지 담요](https://github.com/Hwangji99/2023-Capstone)
-  - 
+  
 ## ⭐️ GitHub Stat and Languages 
 <p align='center'>
   <a href="https://github.com/Hwangji99">
